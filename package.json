@@ -1,0 +1,19 @@
+{
+  "name": "lalecturecool",
+  "version": "1.0.0",
+  "description": "La lecture c cool site web",
+  "author": "Heavenstone",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
